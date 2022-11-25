@@ -21,12 +21,12 @@ export default function Projects(): JSX.Element {
 
 const repos: Array<GithubCardProps> = [
   {
-    profile: 'openbyt.es',
+    profile: 'openbyt-es',
     repo: 'glitchy',
     logo: 'img/glitchy-logo.svg',
   },
   {
-    profile: 'openbyt.es',
+    profile: 'openbyt-es',
     repo: 'site',
     logo: 'img/icon.svg',
   },
