@@ -23,12 +23,12 @@ const repos: Array<GithubCardProps> = [
   {
     profile: 'openbyt-es',
     repo: 'glitchy',
-    logo: 'img/glitchy-logo.svg',
+    logo: '/img/glitchy-logo.svg',
   },
   {
     profile: 'openbyt-es',
     repo: 'site',
-    logo: 'img/icon.svg',
+    logo: '/img/icon.svg',
   },
 ];
 
